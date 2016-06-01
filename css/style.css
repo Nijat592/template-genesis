@@ -1,11 +1,10 @@
 
+/*em (about section start)*/
 
-/*--em starts-----------------------------------*/
 #about {
 	padding: 12% 0%;
 	width: auto;
 	height: auto;
-	border:1px solid black;
 }
 
 #about h3 {
@@ -22,16 +21,18 @@
 }
 
 .em_secondp {
-	padding: 0% 10% 5% 15%;
+	padding: 0% 10% 3% 15%;
 	color:#A47E92;	
 }
 
 
 .em_btn {
+	margin-left: 55px;
 	color:black;
-	padding: 3% 5% 3% 5%;
+	padding: 10px 15px 10px 15px;
 	border:1px solid black;
 	border-radius: 3px;
+	line-height: 50px;s
 	transition: all 0.5s linear;
 }
 
@@ -40,5 +41,5 @@
 	color:white;
 	background-color: black;
 }
-/*--em ends-----------------------------------*/
 
+/*em (about section end)*/

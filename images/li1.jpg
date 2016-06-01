@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<!-- saved from url=(0044)http://agency.rgenesis.com/light/index1.html -->
+<html data-pageloader="y" class="webkit chrome   win  js landscape js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths pc"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}</style><style type="text/css">.gm-style-pbc{transition:opacity ease-in-out;background-color:black;text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family:Roboto,Arial,sans-serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}</style><style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}</style><style type="text/css">@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style type="text/css">.gm-style{font-family:Roboto,Arial,sans-serif;font-size:11px;font-weight:400;text-decoration:none}.gm-style img{max-width:none}</style><link type="text/css" rel="stylesheet" href="./li1_files/css"><script type="text/javascript" id="www-widgetapi-script" src="./li1_files/www-widgetapi.js" async=""></script><script src="./li1_files/iframe_api" id="YTAPI"></script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>R.Gen - Agency Landing Pages Collection</title>
+    <meta name="description" content="R.Gen - Agency Landing Page Collection is perfect suit for presenting your work or services smart and beautiful way. R.Gen - Agency Landing Pages are a clean and modern landing pages which built with Bootstrap 3. It&#39;s include 6 ready home page designs with light and dark themes. Well organised and clean commented codes make your work easy. You can easily customise and organise content for your next project according to project requirement.">
+    <meta name="keywords" content="bootstrap, html5, minimal, static, landing pages, agency, portfolio, studio, work, web, creative, ui, design, service, parallax">
+
+	<!--pageMeta-->
+
+	<!-- Lib CSS -->
+	<link href="./li1_files/css(1)" rel="stylesheet" type="text/css">
+	<link href="./li1_files/rgen_min.css" rel="stylesheet">
+	<link href="./li1_files/main.css" rel="stylesheet">
+	<link href="./li1_files/rgen-grids.css" rel="stylesheet">
+	<link href="./li1_files/helper.css" rel="stylesheet">
+	<link href="./li1_files/responsive.css" rel="stylesheet">
+	<link href="./li1_files/custom.css" rel="stylesheet">
+
+	<!-- Favicons -->
+	<link rel="icon" href="http://agency.rgenesis.com/light/images/favicons/favicon.ico">
+	<link rel="apple-touch-icon" href="http://agency.rgenesis.com/light/images/favicons/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="http://agency.rgenesis.com/light/images/favicons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="http://agency.rgenesis.com/light/images/favicons/apple-touch-icon-114x114.png">
+
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+	<!--[if lt IE 9]>
+	<script src="js/html5shiv.js"></script>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+	<!--[if IE 9 ]><script src="js/ie-matchmedia.js"></script><![endif]-->
+	<script async="" src="./li1_files/analytics.js"></script><script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-31277724-36', 'auto');
+	  ga('send', 'pageview');
+	</script>
+<script type="text/javascript" charset="UTF-8" src="./li1_files/common.js"></script><script type="text/javascript" charset="UTF-8" src="./li1_files/map.js"></script><script type="text/javascript" charset="UTF-8" src="./li1_files/util.js"></script><script type="text/javascript" charset="UTF-8" src="./li1_files/geometry.js"></script><script type="text/javascript" charset="UTF-8" src="./li1_files/directions.js"></script><script type="text/javascript" charset="UTF-8" src="./li1_files/marker.js"></script><script type="text/javascript" charset="UTF-8" src="./li1_files/infowindow.js"></script><script type="text/javascript" charset="UTF-8" src="./li1_files/onion.js"></script><script type="text/javascript" charset="UTF-8" src="./li1_files/stats.js"></script><script type="text/javascript" charset="UTF-8" src="./li1_files/controls.js"></script></head>
+<body>
+<div id="page" data-linkscroll="y" style="opacity: 1;">
+
+	<!-- Navigation -->
+	<nav class="nav-wrp nav-1 light navbar-fixed-top nav-sticky" data-glass="y" data-sticky="y">
+		<div class="container pd-0 sm-pd-lr-20 bdr-b min-px-h100 sm-h-reset flex-cc">
+			<div class="flex-row gt0 middle-md">
+
+				<div class="flex-col-md-3">
+					<div class="nav-header">
+						<a class="navbar-brand" href="http://agency.rgenesis.com/light/index1.html#"><img src="./li1_files/logo1.png" alt="Brand logo"></a>
+						<a class="nav-handle fs-touch-element" data-nav=".nav" data-navopen="pe-7s-more" data-navclose="pe-7s-close"><i class="pe-7s-more"></i></a>	
+					</div>
+				</div><!-- /.column -->
+
+				<div class="flex-col-md-9 align-r">
+					<div class="nav">
+						
+						<ul class="nav-links sf-menu sf-js-enabled sf-arrows" style="touch-action: pan-y;">
+							<li><a href="http://agency.rgenesis.com/light/index1.html#about">About</a></li>
+							<li><a href="http://agency.rgenesis.com/light/index1.html#services">Services</a></li>
+							<li><a href="http://agency.rgenesis.com/light/index1.html#work">Work</a></li>
+							<li><a href="http://agency.rgenesis.com/light/index1.html#testimonials">Testimonials</a></li>
+							<li><a href="http://agency.rgenesis.com/light/index1.html#team">Team</a></li>
+							<li><a href="http://agency.rgenesis.com/light/index1.html#blog">Blog</a></li>
+							<li><a href="http://agency.rgenesis.com/light/index1.html#" class="sf-with-ul">Extra</a>
+								<ul class="dropdown-menu" style="display: none;">
+									<li>
+										<a href="http://agency.rgenesis.com/light/index1.html#" class="sf-with-ul">Home layouts</a>
+										<ul class="dropdown-menu" style="display: none;">
+											<li><a href="http://agency.rgenesis.com/light/index1.html">Home layout - 1</a></li>
+											<li><a href="http://agency.rgenesis.com/light/index2.html">Home layout - 2</a></li>
+											<li><a href="http://agency.rgenesis.com/light/index3.html">Home layout - 3</a></li>
+											<li><a href="http://agency.rgenesis.com/light/index4.html">Home layout - 4</a></li>
+											<li><a href="http://agency.rgenesis.com/light/index5.html">Home layout - 5</a></li>
+											<li><a href="http://agency.rgenesis.com/light/index6.html">Home layout - 6</a></li>
+										</ul>	
+									</li>
+									<li><a href="http://agency.rgenesis.com/light/aboutus.html">About us</a></li>
+									<li><a href="http://agency.rgenesis.com/light/login-register.html">Register</a></li>
+									<li><a href="http://agency.rgenesis.com/light/thankyou.html">Thank you</a></li>
+									<li class="divider"></li>
+									<li class="dropdown-header">Title</li>
+									<li><a href="http://agency.rgenesis.com/light/index1.html#" class="sf-with-ul">Sub menu</a>
+										<ul class="dropdown-menu" style="display: none;">
+											<li><a href="http://agency.rgenesis.com/light/index1.html#">Sub menu link 1</a></li>
+											<li><a href="http://agency.rgenesis.com/light/index1.html#">Sub menu link 2</a></li>
+											<li><a href="http://agency.rgenesis.com/light/index1.html#">Sub menu link 3</a></li>
+											<li class="disabled"><a class="disabled" href="http://agency.rgenesis.com/light/index1.html#">Disabled item</a></li>
+											<li><a href="http://agency.rgenesis.com/light/index1.html#">Sub menu link 4</a></li>
+										</ul>
+									</li>
+									<li><a href="http://agency.rgenesis.com/light/index1.html#">A separated link</a></li>
+								</ul>
+							</li>
+						</ul><!-- nav-links -->
+						
+						<div class="nav-social mr-lr-10">
+							<a href="http://agency.rgenesis.com/light/index1.html#"><i class="fa fa-facebook"></i></a>
+							<a href="http://agency.rgenesis.com/light/index1.html#"><i class="fa fa-twitter"></i></a>
+							<a href="http://agency.rgenesis.com/light/index1.html#"><i class="fa fa-google-plus"></i></a>
+						</div><!-- nav-social -->
+						
+						<div class="nav-other">
+							<a href="http://agency.rgenesis.com/light/index1.html#contact" class="btn btn-default light mini"><i class="fa fa-envelope-o mr-r-5"></i> CONTACT US</a>
+						</div><!-- nav-other -->
+						
+					</div><!-- /.nav -->
+				</div><!-- /.column -->
+
+			</div><!-- /.row --> 
+
+		</div><!-- /.container --> 
+	</nav><!-- /.nav-wrp -->
+
+	
+	<!-- Intro -->
+	<section class="intro-section intro-section-1 pd-0 pos-rel">
+		<!-- carousel-widget -->
+		<div class="carousel-widget ctrl-1 vh80 mr-b-30 align-c owl0" data-items="1" data-nav="true" data-pager="true" data-itemrange="false" data-margin="40" data-autoplay="false" data-hauto="false" data-center="false" id="owl0" style="opacity: 1;">
+			<div class="owl-carousel owl-theme owl-loaded" style="opacity: 1;">
+				
+				<!-- /.item -->
+
+				<!-- /.item -->
+
+			<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: 0s; width: 2778px;"><div class="owl-item active" style="width: 1349px; margin-right: 40px;"><div class="item">
+					<div class="full-wh flex-bc bg-cover" data-bg="images/intro-bg03.jpg" style="background-image: url(&quot;images/intro-bg03.jpg&quot;);">
+						<div class="container caption delay-1s typo-light mr-b-100 pos-rel z2">
+							<h6 class="f-1 txt-upper sm-fs14 tag-text bg-white">Case Study</h6>
+							<hr class="bdr-white mr-auto mr-tb-10">
+							<h2 class="title large sm-fs18 mr-b-30">LOREM IPSUM DOLOR</h2>
+							<a href="http://agency.rgenesis.com/light/index1.html#" class="btn btn-default light">More information</a>
+						</div>
+						<div class="full-wh bg-dark2 l0 op-04 z1"></div>
+					</div>
+				</div></div><div class="owl-item" style="width: 1349px; margin-right: 40px;"><div class="item">
+					<div class="full-wh flex-bc bg-cover" data-bg="images/intro-bg02.jpg" style="background-image: url(&quot;images/intro-bg02.jpg&quot;);">
+						<div class="container caption delay-1s typo-light mr-b-100 pos-rel z2">
+							<h6 class="f-1 txt-upper sm-fs14 tag-text bg-white">Case Study</h6>
+							<hr class="bdr-white mr-auto mr-tb-10">
+							<h2 class="title large sm-fs18 mr-b-30">LOREM IPSUM DOLOR</h2>
+							<a href="http://agency.rgenesis.com/light/index1.html#" class="btn btn-default light">More information</a>
+						</div>
+						<div class="full-wh bg-dark2 l0 op-04 z1"></div>
+					</div>
+				</div></div></div></div><div class="owl-controls"><div class="owl-nav" style="top: 267px;"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div class="owl-dots" style=""><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div></div></div></div><!-- /.owl-carousel -->
+		</div><!-- /.carousel-widget -->
+	</section><!-- /.intro-section -->
+
+
+	<!-- Content section -->
+	<section class="content-section content-section-1 pos-rel pd-tb-large sm-pd-tb-small" id="about">
+		<div class="container">
+			<div class="flex-row middle-md mb20">
+				
+				<div class="flex-col-md-8">
+					<img src="./li1_files/800x600_1.jpg" class="img-responsive" alt="image">
+				</div><!-- / column -->
+
+				<div class="flex-col-md-3 flex-col-md-offset-1 sm-align-c">
+					<h2 class="title txt-upper">Who we are</h2>
+					<p class="title-sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, dicta. Veritatis tempora at illum illo ullam earum sequi quibusdam, deserunt quos laudantium voluptas, impedit sint mollitia quia reiciendis iste molestiae.</p>
+
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, dicta. Veritatis tempora at illum illo ullam earum sequi quibusdam, deserunt quos laudantium voluptas, impedit sint mollitia quia reiciendis iste molestiae.</p>
+					<hr>
+					<a href="http://agency.rgenesis.com/light/index1.html#" class="btn btn-default small">Know more...</a>
+				</div><!-- / column -->
+
+			</div><!-- / row -->
+		</div><!-- / container -->
+	</section><!-- / Content section -->
+
+
+	<!-- feature section -->
+	<section class="feature-section feature-section-1 bg-gray pd-tb-medium sm-pd-tb-small" id="services">
+		<div class="container">
+			<div class="flex-row middle-md">
+				
+				<div class="flex-col-md-3 sm-align-c">
+					<h2 class="title txt-upper">Services we offer</h2>
+					<p class="title-sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, dicta. Veritatis tempora at illum illo ullam earum sequi quibusdam, deserunt quos laudantium voluptas, impedit sint mollitia quia reiciendis iste molestiae.</p>
+				</div><!-- / column -->
+
+				<div class="flex-col-md-8 flex-col-md-offset-1">
+					<div class="flex-row gt20">
+
+						<div class="flex-col-md-6">
+							<div class="info-obj img-t g20 mini align-l bdr-1 bdr-op-2 pd-30">
+								<div class="img txt-dark2"><span class="iconwrp"><i class="pe-7s-rocket"></i></span></div>
+								<div class="info">
+									<h3 class="bold-1 fs16">UX DESIGN</h3>
+									<p>Lorem ipsum dolor sit ametconsetetur sadipscing elitr, sed diam nonumy eirmod</p>
+								</div>
+							</div>
+						</div><!-- / column -->
+
+						<div class="flex-col-md-6">
+							<div class="info-obj img-t g20 mini align-l bdr-1 bdr-op-2 pd-30">
+								<div class="img txt-dark2"><span class="iconwrp"><i class="pe-7s-phone"></i></span></div>
+								<div class="info">
+									<h3 class="bold-1 fs16">APP DEVELOPMENT</h3>
+									<p>Lorem ipsum dolor sit ametconsetetur sadipscing elitr, sed diam nonumy eirmod</p>
+								</div>
+							</div>
+						</div><!-- / column -->
+
+						<div class="flex-col-md-6">
+							<div class="info-obj img-t g20 mini align-l bdr-1 bdr-op-2 pd-30">
+								<div class="img txt-dark2"><span class="iconwrp"><i class="pe-7s-global"></i></span></div>
+								<div class="info">
+									<h3 class="bold-1 fs16">WEB DEVELOPMENT</h3>
+									<p>Lorem ipsum dolor sit ametconsetetur sadipscing elitr, sed diam nonumy eirmod</p>
+								</div>
+							</div>
+						</div><!-- / column -->
+
+						<div class="flex-col-md-6">
+							<div class="info-obj img-t g20 mini align-l bdr-1 bdr-op-2 pd-30">
+								<div class="img txt-dark2"><span class="iconwrp"><i class="pe-7s-paint"></i></span></div>
+								<div class="info">
+									<h3 class="bold-1 fs16">PRINT MEDIA</h3>
+									<p>Lorem ipsum dolor sit ametconsetetur sadipscing elitr, sed diam nonumy eirmod</p>
+								</div>
+							</div>
+						</div><!-- / column -->
+
+					</div><!-- / row -->
+
+				</div><!-- / column -->
+
+			</div><!-- / row -->
+		</div><!-- / container -->
+	</section><!-- / feature section -->
+
+
+	<!-- portfolio section -->
+	<section class="portfolio-section portfolio-section-1 pd-tb-medium sm-pd-tb-small" id="work">
+		<div class="container">
+			<div class="flex-row middle-md mb20">
+
+				<div class="flex-col-md-3 flex-col-md-offset-1 last-md">
+					<h2 class="title txt-upper sm-align-c">Our work</h2>
+					<p class="title-sub sm-align-c">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, dicta. Veritatis tempora at illum illo ullam earum sequi quibusdam.</p>
+					
+					<div class="info-obj img-t g20 small align-l pd-30 bdr-1 bdr-op-1 mr-b-40">
+						<div class="img"><img src="./li1_files/person1.jpg" class="rd" alt="image"></div>
+						<div class="info">
+							<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+							<h3 class="bold-1 fs16 mr-0">Oupsum dolor</h3>
+							<em class="fs12">Creative Director</em>
+						</div>
+					</div><!-- / info object -->
+
+					<a href="http://agency.rgenesis.com/light/index1.html#" class="btn btn-default small">Explore more projects</a>
+				</div><!-- / column -->
+
+				<div class="flex-col-md-8 popgallery-widget popgallery0" id="popgallery0">
+					
+					<div class="hover-box1 mr-b-10">
+						<div class="overlay flex-bl typo-light">
+							<div class="content mr-30 z2">
+								<a href="./li1_files/mockup-01.jpg" class="pop-img iconwrp sq40 bg-color1 flex-cc fs24 mr-b-20"><i class="pe-7s-expand1"></i></a>
+								<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq40 bg-color1 flex-cc fs24 mr-b-20"><i class="pe-7s-exapnd2"></i></a>
+								<h3 class="title mini bold-1">Project name will come</h3>
+								<p class="mr-0 fs12 op-08">Lorem ipsum dolor sit amet consectetur</p>
+							</div>
+							<b class="full-wh bg-dark2 op-08 z1 l0"></b>
+						</div>
+						<img src="./li1_files/mockup-01.jpg" alt="image">
+					</div><!-- / hover box -->
+
+					<div class="flex-row gt10 mb10">
+						
+						<div class="flex-col-md-6">
+							<div class="hover-box1">
+								<div class="overlay flex-bl typo-light">
+									<div class="content mr-30 z2">
+										<a href="./li1_files/mockup-02.jpg" class="pop-img iconwrp sq40 bg-color1 flex-cc fs24 mr-b-20"><i class="pe-7s-expand1"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq40 bg-color1 flex-cc fs24 mr-b-20"><i class="pe-7s-exapnd2"></i></a>
+										<h3 class="title mini bold-1">Project name will come</h3>
+										<p class="mr-0 fs12 op-08">Lorem ipsum dolor sit amet consectetur</p>
+									</div>
+									<b class="full-wh bg-dark2 op-08 z1 l0"></b>
+								</div>
+								<img src="./li1_files/mockup-02.jpg" alt="image">
+							</div><!-- / hover box -->
+						</div><!-- / column -->
+
+						<div class="flex-col-md-6">
+							<div class="hover-box1">
+								<div class="overlay flex-bl typo-light">
+									<div class="content mr-30 z2">
+										<a href="./li1_files/mockup-03.jpg" class="pop-img iconwrp sq40 bg-color1 flex-cc fs24 mr-b-20"><i class="pe-7s-expand1"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq40 bg-color1 flex-cc fs24 mr-b-20"><i class="pe-7s-exapnd2"></i></a>
+										<h3 class="title mini bold-1">Project name will come</h3>
+										<p class="mr-0 fs12 op-08">Lorem ipsum dolor sit amet consectetur</p>
+									</div>
+									<b class="full-wh bg-dark2 op-08 z1 l0"></b>
+								</div>
+								<img src="./li1_files/mockup-03.jpg" alt="image">
+							</div><!-- / hover box -->
+						</div><!-- / column -->
+
+						<div class="flex-col-md-6">
+							<div class="hover-box1">
+								<div class="overlay flex-bl typo-light">
+									<div class="content mr-30 z2">
+										<a href="./li1_files/mockup-04.jpg" class="pop-img iconwrp sq40 bg-color1 flex-cc fs24 mr-b-20"><i class="pe-7s-expand1"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq40 bg-color1 flex-cc fs24 mr-b-20"><i class="pe-7s-exapnd2"></i></a>
+										<h3 class="title mini bold-1">Project name will come</h3>
+										<p class="mr-0 fs12 op-08">Lorem ipsum dolor sit amet consectetur</p>
+									</div>
+									<b class="full-wh bg-dark2 op-08 z1 l0"></b>
+								</div>
+								<img src="./li1_files/mockup-04.jpg" alt="image">
+							</div><!-- / hover box -->
+						</div><!-- / column -->
+
+						<div class="flex-col-md-6">
+							<div class="hover-box1">
+								<div class="overlay flex-bl typo-light">
+									<div class="content mr-30 z2">
+										<a href="./li1_files/mockup-05.jpg" class="pop-img iconwrp sq40 bg-color1 flex-cc fs24 mr-b-20"><i class="pe-7s-expand1"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq40 bg-color1 flex-cc fs24 mr-b-20"><i class="pe-7s-exapnd2"></i></a>
+										<h3 class="title mini bold-1">Project name will come</h3>
+										<p class="mr-0 fs12 op-08">Lorem ipsum dolor sit amet consectetur</p>
+									</div>
+									<b class="full-wh bg-dark2 op-08 z1 l0"></b>
+								</div>
+								<img src="./li1_files/mockup-05.jpg" alt="image">
+							</div><!-- / hover box -->
+						</div><!-- / column -->
+
+					</div><!-- / row -->
+					
+				</div><!-- / column -->
+			</div><!-- / row -->
+		</div><!-- / container -->
+	</section><!-- / portfolio section -->
+	
+
+	<!-- testimonial section -->
+	<section class="testimonial-section testimonial-section-1 pd-tb-medium pos-rel bg-gray sm-pd-tb-small" id="testimonials">
+		<div class="container">
+			
+			<div class="align-c mr-b-40">
+				<h2 class="title txt-upper">Our clients</h2>
+				<p class="title-sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit<br>Veritatis tempora at illum illo ullam earum sequi quibusdam.</p>	
+
+				<ul class="flex-row reset gt20 op-05 row-bdr bdr-op-2">
+					<li class="flex-col-md-2"><img src="./li1_files/brand-logo1.png" class="img-responsive pd-20" alt="image"></li>
+					<li class="flex-col-md-2"><img src="./li1_files/brand-logo2.png" class="img-responsive pd-20" alt="image"></li>
+					<li class="flex-col-md-2"><img src="./li1_files/brand-logo3.png" class="img-responsive pd-20" alt="image"></li>
+					<li class="flex-col-md-2"><img src="./li1_files/brand-logo4.png" class="img-responsive pd-20" alt="image"></li>
+					<li class="flex-col-md-2"><img src="./li1_files/brand-logo5.png" class="img-responsive pd-20" alt="image"></li>
+					<li class="flex-col-md-2"><img src="./li1_files/brand-logo6.png" class="img-responsive pd-20" alt="image"></li>
+				</ul><!-- / Client logos -->
+			</div>
+			
+			<hr class="mr-tb-60 mr-auto">
+			
+			<h2 class="title txt-upper align-c mr-b-40">What our customers say</h2>
+
+			<div class="flex-row gt50">
+				
+				<div class="flex-col-md-4">
+					<div class="info-obj img-l g20 small align-l">
+						<div class="img"><img src="./li1_files/person1.jpg" class="rd" alt="image"></div>
+						<div class="info">
+							<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+							<h3 class="bold-1 fs16 mr-0">Oupsum dolor</h3>
+							<em class="fs12">Creative Director</em>
+						</div>
+					</div><!-- / info object -->
+				</div><!-- / column -->
+
+				<div class="flex-col-md-4">
+					<div class="info-obj img-l g20 small align-l">
+						<div class="img"><img src="./li1_files/person2.jpg" class="rd" alt="image"></div>
+						<div class="info">
+							<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+							<h3 class="bold-1 fs16 mr-0">Oupsum dolor</h3>
+							<em class="fs12">Creative Director</em>
+						</div>
+					</div><!-- / info object -->
+				</div><!-- / column -->
+
+				<div class="flex-col-md-4">
+					<div class="info-obj img-l g20 small align-l">
+						<div class="img"><img src="./li1_files/person3.jpg" class="rd" alt="image"></div>
+						<div class="info">
+							<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+							<h3 class="bold-1 fs16 mr-0">Oupsum dolor</h3>
+							<em class="fs12">Creative Director</em>
+						</div>
+					</div><!-- / info object -->
+				</div><!-- / column -->
+
+			</div><!-- / row -->
+
+		</div><!-- / container -->
+	</section><!-- / testimonial section -->
+
+
+	<!-- video section -->
+	<section class="video-section video-section-1 pd-tb-medium sm-pd-tb-small pos-rel min-px-h600 flex-cc" id="team">
+		<div class="container z1 pos-rel typo-light align-c">
+			<div class="w-50 mr-auto">
+				<h2 class="title large txt-upper">Our studio</h2>
+				<p class="title-sub mr-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, dicta. Veritatis tempora at illum illo ullam earum sequi quibusdam.</p>	
+			</div>
+		</div><!-- / container -->
+
+		<div class="bg-section bg-cover bg-cc full-wh l0" id="videobg1" data-bg="images/bg2.jpg" style="background-image: url(&quot;images/bg2.jpg&quot;);"><span id="controlBar_video_1464786045845" class="mb_YTPBar inlinePlayer" style="white-space: nowrap; position: absolute; z-index: 1000; display: inline-block;"><div class="buttonBar"><span class="mb_YTPPlaypause ytpicon">p</span><span class="mb_YTPMuteUnmute ytpicon">A</span><div class="mb_YTPVolumeBar simpleSlider muted" style="display: inline-block; cursor: auto;"><div class="level horizontal" style="width: 0%;"></div></div><span class="mb_YTPTime">01 : 05 / 01 : 09</span><span class="mb_YTPUrl ytpicon" title="view on YouTube">Y</span></div><div class="mb_YTPProgress" style="position: absolute;"><div class="mb_YTPLoaded" style="position: absolute; left: 0px; width: 100%;"></div><div class="mb_YTPseekbar" style="position: absolute; left: 0px; width: 1270.8px;"></div></div></span><div class="mbYTP_wrapper" id="wrapper_mbYTP_video_1464786045845" style="position: absolute; z-index: 0; min-width: 100%; min-height: 100%; left: 0px; top: 0px; overflow: hidden; opacity: 1; transition-property: opacity; transition-duration: 2000ms;"><iframe id="mbYTP_video_1464786045845" class="playerBox" style="position: absolute; z-index: 0; width: 1772.76px; height: 859px; top: 0px; left: 0px; overflow: hidden; opacity: 1; margin-top: -129.5px; margin-left: -211.88px; transition-property: opacity; transition-duration: 1000ms;" frameborder="0" allowfullscreen="1" title="YouTube video player" width="640" height="360" src="./li1_files/dorZ3vag5PI.html"></iframe><div class="YTPOverlay raster" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></div></div>
+			<b class="full-wh bg-dark2 op-05"></b>
+			<!-- BACKGROUND VIDEO -->
+			<div class="videobg mb_YTPlayer isMuted" data-property="{videoURL:&#39;dorZ3vag5PI&#39;,containment:&#39;#videobg1&#39;,showControls:true, autoPlay:true, loop:true, vol:50, mute:true, startAt:10, realfullscreen:false, opacity:1, addRaster:true, quality:&#39;default&#39;, optimizeDisplay:true}" id="video_1464786045845" style="display: none; position: relative; background-image: none;"></div>
+		</div>
+	</section><!-- / video section -->
+
+	
+	<!-- Team section -->
+	<section class="team-section team-section-1 pd-tb-medium sm-pd-tb-small">
+		<div class="container">
+			<div class="flex-row middle-md">
+
+				<div class="flex-col-md-3 last-md flex-col-md-offset-1 sm-align-c">
+					<h2 class="title txt-upper">Passionate people on our team</h2>
+					<p class="title-sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, dicta. Veritatis tempora at illum illo ullam earum sequi quibusdam, deserunt quos laudantium voluptas, impedit sint mollitia quia reiciendis iste molestiae.</p>
+				</div><!-- / column -->
+
+				<div class="flex-col-md-8">
+
+					<div class="flex-row gt20 mb20">
+
+						<div class="flex-col-md-4">
+							<div class="hover-box1">
+								<div class="overlay flex-bc typo-light align-c">
+									<div class="content mr-auto mr-tb-20 z2 w-75">
+										<h3 class="title mini mr-0 bold-1 txt-upper">Jessica Doe</h3>
+										<p><em class="fs12 op-08">CEO</em></p>
+										<hr class="light">
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-facebook"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-twitter"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-google-plus"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-instagram"></i></a>
+									</div>
+									<b class="full-wh bg-dark2 op-08 z1 l0"></b>
+								</div>
+								<img src="./li1_files/person1.jpg" alt="image">
+							</div><!-- / hover box -->
+						</div><!-- / column -->
+
+						<div class="flex-col-md-4">
+							<div class="hover-box1">
+								<div class="overlay flex-bc typo-light align-c">
+									<div class="content mr-auto mr-tb-20 z2 w-75">
+										<h3 class="title mini mr-0 bold-1 txt-upper">Alma Gomez</h3>
+										<p><em class="fs12 op-08">Marketing</em></p>
+										<hr class="light">
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-facebook"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-twitter"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-google-plus"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-instagram"></i></a>
+									</div>
+									<b class="full-wh bg-dark2 op-08 z1 l0"></b>
+								</div>
+								<img src="./li1_files/person2.jpg" alt="image">
+							</div><!-- / hover box -->
+						</div><!-- / column -->
+
+						<div class="flex-col-md-4">
+							<div class="hover-box1">
+								<div class="overlay flex-bc typo-light align-c">
+									<div class="content mr-auto mr-tb-20 z2 w-75">
+										<h3 class="title mini mr-0 bold-1 txt-upper">Peggy Washington</h3>
+										<p><em class="fs12 op-08">Developer</em></p>
+										<hr class="light">
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-facebook"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-twitter"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-google-plus"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-instagram"></i></a>
+									</div>
+									<b class="full-wh bg-dark2 op-08 z1 l0"></b>
+								</div>
+								<img src="./li1_files/person3.jpg" alt="image">
+							</div><!-- / hover box -->
+						</div><!-- / column -->
+
+						<div class="flex-col-md-4">
+							<div class="hover-box1">
+								<div class="overlay flex-bc typo-light align-c">
+									<div class="content mr-auto mr-tb-20 z2 w-75">
+										<h3 class="title mini mr-0 bold-1 txt-upper">John Turner</h3>
+										<p><em class="fs12 op-08">Design</em></p>
+										<hr class="light">
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-facebook"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-twitter"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-google-plus"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-instagram"></i></a>
+									</div>
+									<b class="full-wh bg-dark2 op-08 z1 l0"></b>
+								</div>
+								<img src="./li1_files/person4.jpg" alt="image">
+							</div><!-- / hover box -->
+						</div><!-- / column -->
+
+						<div class="flex-col-md-4">
+							<div class="hover-box1">
+								<div class="overlay flex-bc typo-light align-c">
+									<div class="content mr-auto mr-tb-20 z2 w-75">
+										<h3 class="title mini mr-0 bold-1 txt-upper">Lydia Park</h3>
+										<p><em class="fs12 op-08">Design</em></p>
+										<hr class="light">
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-facebook"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-twitter"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-google-plus"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-instagram"></i></a>
+									</div>
+									<b class="full-wh bg-dark2 op-08 z1 l0"></b>
+								</div>
+								<img src="./li1_files/person5.jpg" alt="image">
+							</div><!-- / hover box -->
+						</div><!-- / column -->
+
+						<div class="flex-col-md-4">
+							<div class="hover-box1">
+								<div class="overlay flex-bc typo-light align-c">
+									<div class="content mr-auto mr-tb-20 z2 w-75">
+										<h3 class="title mini mr-0 bold-1 txt-upper">Wilson Young</h3>
+										<p><em class="fs12 op-08">Account</em></p>
+										<hr class="light">
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-facebook"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-twitter"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-google-plus"></i></a>
+										<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="iconwrp sq30 flex-cc fs18"><i class="fa fa-instagram"></i></a>
+									</div>
+									<b class="full-wh bg-dark2 op-08 z1 l0"></b>
+								</div>
+								<img src="./li1_files/person6.jpg" alt="image">
+							</div><!-- / hover box -->
+						</div><!-- / column -->
+
+
+					</div><!-- / row -->
+
+
+				</div><!-- / column -->
+
+			</div><!-- / row -->
+		</div><!-- / container -->
+	</section><!-- / team section -->
+	
+
+	<!-- Content section -->
+	<section class="content-section content-section-1 pos-rel pd-tb-medium sm-pd-tb-small bg-gray" id="blog">
+		<div class="container">
+			<div class="flex-row middle-md mb20">
+				
+				<div class="flex-col-md-3">
+					<div class="content sm-align-c">
+						<h2 class="title mr-b-40 txt-upper">LATEST ARTICLES FROM OUR BLOG</h2>
+
+						<div class="info-obj img-t g0 align-l mr-b-40">
+							<div class="img"><a href="http://agency.rgenesis.com/light/index1.html#"><img src="./li1_files/800x600_1.jpg" alt="image"></a></div>
+							<div class="info pd-20 bdr-1 bdr-op-2">
+								<p class="fs12 f-2 mr-b-10"><span class="tag-text">25 Apr 2016</span></p>
+								<h3 class="bold-1 fs16 mr-b-10"><a href="http://agency.rgenesis.com/light/index1.html#" target="_blank">Seddiam nonumy eirmod tempor invidunt</a></h3>
+								<p class="mr-0">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+							</div>
+						</div>
+
+						<a href="http://agency.rgenesis.com/light/index1.html#" class="btn btn-default small">View all blog post...</a>
+					</div>
+					
+				</div><!-- / column -->
+
+				<div class="flex-col-md-8 flex-col-md-offset-1">
+					
+					<div class="info-obj img-l mid g30">
+						<div class="img align-c bdr-1 bdr-op-2 pd-10">
+							<div class="min-px-w70">
+								<i class="pe-7s-photo fs40"></i>
+								<hr class="mr-tb-10">
+								<b class="fs12 bold-1 f-2">25 APR<br>2016</b>
+							</div>
+						</div>
+						<div class="info">
+							<h3 class="bold-1 fs16 mr-b-5"><a href="http://agency.rgenesis.com/light/index1.html#" target="_blank">Seddiam nonumy eirmod tempor invidunt</a></h3>
+							<p class="mr-b-10">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+							<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="btn btn-default mini">Read more...</a>
+						</div>
+					</div><!-- / info box -->
+
+					<hr class="mr-tb-30">
+					
+					<div class="info-obj img-l mid g30">
+						<div class="img align-c bdr-1 bdr-op-2 pd-10">
+							<div class="min-px-w70">
+								<i class="pe-7s-music fs40"></i>
+								<hr class="mr-tb-10">
+								<b class="fs12 bold-1 f-2">25 APR<br>2016</b>
+							</div>
+						</div>
+						<div class="info">
+							<h3 class="bold-1 fs16 mr-b-5"><a href="http://agency.rgenesis.com/light/index1.html#" target="_blank">Seddiam nonumy eirmod tempor invidunt</a></h3>
+							<p class="mr-b-10">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+							<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="btn btn-default mini">Read more...</a>
+						</div>
+					</div><!-- / info box -->
+					
+					<hr class="mr-tb-30">
+
+					<div class="info-obj img-l mid g30">
+						<div class="img align-c bdr-1 bdr-op-2 pd-10">
+							<div class="min-px-w70">
+								<i class="pe-7s-video fs40"></i>
+								<hr class="mr-tb-10">
+								<b class="fs12 bold-1 f-2">25 APR<br>2016</b>
+							</div>
+						</div>
+						<div class="info">
+							<h3 class="bold-1 fs16 mr-b-5"><a href="http://agency.rgenesis.com/light/index1.html#" target="_blank">Seddiam nonumy eirmod tempor invidunt</a></h3>
+							<p class="mr-b-10">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+							<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="btn btn-default mini">Read more...</a>
+						</div>
+					</div><!-- / info box -->
+
+					<hr class="mr-tb-30">
+
+					<div class="info-obj img-l mid g30">
+						<div class="img align-c bdr-1 bdr-op-2 pd-10">
+							<div class="min-px-w70">
+								<i class="pe-7s-music fs40"></i>
+								<hr class="mr-tb-10">
+								<b class="fs12 bold-1 f-2">25 APR<br>2016</b>
+							</div>
+						</div>
+						<div class="info">
+							<h3 class="bold-1 fs16 mr-b-5"><a href="http://agency.rgenesis.com/light/index1.html#" target="_blank">Seddiam nonumy eirmod tempor invidunt</a></h3>
+							<p class="mr-b-10">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+							<a href="http://agency.rgenesis.com/light/index1.html#" target="_blank" class="btn btn-default mini">Read more...</a>
+						</div>
+					</div><!-- / info box -->
+					
+				</div><!-- / column -->
+
+
+			</div><!-- / row -->
+		</div><!-- / container -->
+	</section><!-- / Content section -->
+
+	<!-- Google map -->
+	<div class="gmap-widget gmapwidget1" data-map-height="500" data-map-latitude="-37.817136" data-map-longitude="144.955652" data-map-markerhd="Envato" data-map-markerhtml="&lt;div class=&quot;pd-10 align-c&quot;&gt;&lt;h2 class=&quot;fs18 mr-b-10&quot;&gt;Envato&lt;/h2&gt;&lt;p class=&quot;fs16 mr-0&quot;&gt;PO Box 16122, Collins Street West,&lt;br&gt;Victoria 8007, Australia&lt;/p&gt;&lt;/div&gt;" id="gmapwidget1" style="opacity: 1; height: 500px; position: relative; overflow: hidden; transform: translateZ(0px); background-color: rgb(229, 227, 223);"><div class="gm-style" style="position: absolute; left: 0px; top: 0px; overflow: hidden; width: 100%; height: 100%; z-index: 0;"><div style="position: absolute; left: 0px; top: 0px; overflow: hidden; width: 100%; height: 100%; z-index: 0; cursor: url(&quot;https://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;) 8 8, default;"><div style="position: absolute; left: 0px; top: 0px; z-index: 1; width: 100%; transform-origin: 0px 0px 0px; transform: matrix(1, 0, 0, 1, 0, 0);"><div style="transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div aria-hidden="true" style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;"><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 579px; top: 72px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 323px; top: 72px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 579px; top: -184px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 579px; top: 328px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 835px; top: 72px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 323px; top: 328px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 323px; top: -184px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 835px; top: -184px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 835px; top: 328px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 1091px; top: 72px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 67px; top: 72px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 1091px; top: 328px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 1091px; top: -184px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 67px; top: 328px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 67px; top: -184px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 1347px; top: 72px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: -189px; top: 72px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: -189px; top: -184px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 1347px; top: -184px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: -189px; top: 328px;"></div><div style="width: 256px; height: 256px; transform: translateZ(0px); position: absolute; left: 1347px; top: 328px;"></div></div></div></div><div style="transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;"></div><div style="transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;"></div><div style="transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: -1;"><div aria-hidden="true" style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;"><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 579px; top: 72px;"><canvas draggable="false" height="256" width="256" style="-webkit-user-select: none; position: absolute; left: 0px; top: 0px; height: 256px; width: 256px;"></canvas></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 323px; top: 72px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 579px; top: -184px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 579px; top: 328px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 835px; top: 72px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 323px; top: 328px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 323px; top: -184px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 835px; top: -184px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 835px; top: 328px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 1091px; top: 72px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 67px; top: 72px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 1091px; top: 328px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 1091px; top: -184px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 67px; top: 328px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 67px; top: -184px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 1347px; top: 72px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: -189px; top: 72px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: -189px; top: -184px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 1347px; top: -184px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: -189px; top: 328px;"></div><div style="width: 256px; height: 256px; overflow: hidden; transform: translateZ(0px); position: absolute; left: 1347px; top: 328px;"></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div aria-hidden="true" style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;"><div style="transform: translateZ(0px); position: absolute; left: 579px; top: 72px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 579px; top: -184px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(1)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 835px; top: 72px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(2)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 835px; top: -184px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(3)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 1091px; top: 72px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(4)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 1091px; top: -184px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(5)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 579px; top: 328px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(6)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 835px; top: 328px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(7)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 1091px; top: 328px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(8)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 1347px; top: 72px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(9)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 1347px; top: -184px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(10)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 1347px; top: 328px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(11)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 323px; top: 72px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(12)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 323px; top: 328px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(13)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 323px; top: -184px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(14)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 67px; top: 328px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(15)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: -189px; top: 72px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(16)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: -189px; top: -184px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(17)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: -189px; top: 328px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(18)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 67px; top: 72px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(19)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="transform: translateZ(0px); position: absolute; left: 67px; top: -184px; transition: opacity 200ms ease-out;"><img src="./li1_files/vt(20)" draggable="false" alt="" style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div></div></div><div class="gm-style-pbc" style="position: absolute; left: 0px; top: 0px; z-index: 2; width: 100%; height: 100%; transition-duration: 0.3s; opacity: 0; display: none;"><p class="gm-style-pbt">Чтобы переместить карту, коснитесь ее двумя пальцами</p></div><div style="position: absolute; left: 0px; top: 0px; z-index: 3; width: 100%; height: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 4; width: 100%; transform-origin: 0px 0px 0px; transform: matrix(1, 0, 0, 1, 0, 0);"><div style="transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 104; width: 100%;"></div><div style="transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 105; width: 100%;"></div><div style="transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 106; width: 100%;"></div><div style="transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 107; width: 100%;"></div></div></div><div style="margin-left: 5px; margin-right: 5px; z-index: 1000000; position: absolute; left: 0px; bottom: 0px;"><a target="_blank" href="https://maps.google.com/maps?ll=-37.817136,144.955652&amp;z=16&amp;t=m&amp;hl=ru-RU&amp;gl=US&amp;mapclient=apiv3" title="Нажмите, чтобы отобразить эту область в Картах Google" style="position: static; overflow: visible; float: none; display: inline;"><div style="width: 66px; height: 26px; cursor: pointer;"><img src="./li1_files/google4.png" draggable="false" style="position: absolute; left: 0px; top: 0px; width: 66px; height: 26px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"></div></a></div><div style="padding: 15px 21px; border: 1px solid rgb(171, 171, 171); font-family: Roboto, Arial, sans-serif; color: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; z-index: 10000002; display: none; width: 256px; height: 148px; position: absolute; left: 525px; top: 160px; background-color: white;"><div style="padding: 0px 0px 10px; font-size: 16px;">Картографические данные</div><div style="font-size: 13px;">Картографические данные © 2016 Google</div><div style="width: 13px; height: 13px; overflow: hidden; position: absolute; opacity: 0.7; right: 12px; top: 12px; z-index: 10000; cursor: pointer;"><img src="./li1_files/mapcnt6.png" draggable="false" style="position: absolute; left: -2px; top: -336px; width: 59px; height: 492px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div><div class="gmnoprint" style="z-index: 1000001; position: absolute; right: 280px; bottom: 0px; width: 208px;"><div draggable="false" class="gm-style-cc" style="-webkit-user-select: none; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="width: auto; height: 100%; margin-left: 1px; background-color: rgb(245, 245, 245);"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a style="color: rgb(68, 68, 68); text-decoration: none; cursor: pointer; display: none;">Картографические данные</a><span>Картографические данные © 2016 Google</span></div></div></div><div class="gmnoscreen" style="position: absolute; right: 0px; bottom: 0px;"><div style="font-family: Roboto, Arial, sans-serif; font-size: 11px; color: rgb(68, 68, 68); direction: ltr; text-align: right; background-color: rgb(245, 245, 245);">Картографические данные © 2016 Google</div></div><div class="gmnoprint gm-style-cc" draggable="false" style="z-index: 1000001; -webkit-user-select: none; height: 14px; line-height: 14px; position: absolute; right: 153px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="width: auto; height: 100%; margin-left: 1px; background-color: rgb(245, 245, 245);"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a href="https://www.google.com/intl/ru-RU_US/help/terms_maps.html" target="_blank" style="text-decoration: none; cursor: pointer; color: rgb(68, 68, 68);">Условия использования</a></div></div><div style="width: 25px; height: 25px; overflow: hidden; display: none; margin: 10px 14px; position: absolute; top: 0px; right: 0px;"><img src="./li1_files/sv5.png" draggable="false" class="gm-fullscreen-control" style="position: absolute; left: -52px; top: -86px; width: 164px; height: 112px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;"></div><div draggable="false" class="gm-style-cc" style="-webkit-user-select: none; height: 14px; line-height: 14px; position: absolute; right: 0px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="width: auto; height: 100%; margin-left: 1px; background-color: rgb(245, 245, 245);"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a target="_new" title="Сообщить об ошибке на карте или снимке" href="https://www.google.com/maps/@-37.817136,144.955652,16z/data=!10m1!1e1!12b1?source=apiv3&amp;rapsrc=apiv3" style="font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); text-decoration: none; position: relative;">Сообщить об ошибке на карте</a></div></div><div class="gmnoprint gm-bundled-control gm-bundled-control-on-bottom" draggable="false" controlwidth="28" controlheight="93" style="margin: 10px; -webkit-user-select: none; position: absolute; bottom: 107px; right: 28px;"><div class="gmnoprint" controlwidth="28" controlheight="55" style="position: absolute; left: 0px; top: 38px;"><div draggable="false" style="-webkit-user-select: none; box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; border-radius: 2px; cursor: pointer; width: 28px; height: 55px; background-color: rgb(255, 255, 255);"><div title="Увеличить" style="position: relative; width: 28px; height: 27px; left: 0px; top: 0px;"><div style="overflow: hidden; position: absolute; width: 15px; height: 15px; left: 7px; top: 6px;"><img src="./li1_files/tmapctrl.png" draggable="false" style="position: absolute; left: 0px; top: 0px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none; width: 120px; height: 54px;"></div></div><div style="position: relative; overflow: hidden; width: 67%; height: 1px; left: 16%; top: 0px; background-color: rgb(230, 230, 230);"></div><div title="Уменьшить" style="position: relative; width: 28px; height: 27px; left: 0px; top: 0px;"><div style="overflow: hidden; position: absolute; width: 15px; height: 15px; left: 7px; top: 6px;"><img src="./li1_files/tmapctrl.png" draggable="false" style="position: absolute; left: 0px; top: -15px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none; width: 120px; height: 54px;"></div></div></div></div><div class="gm-svpc" controlwidth="28" controlheight="28" style="box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; border-radius: 2px; width: 28px; height: 28px; cursor: url(&quot;https://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;) 8 8, default; position: absolute; left: 0px; top: 0px; background-color: rgb(255, 255, 255);"><div style="position: absolute; left: 1px; top: 1px;"></div><div style="position: absolute; left: 1px; top: 1px;"><div aria-label="Перейти в режим просмотра улиц" style="width: 26px; height: 26px; overflow: hidden; position: absolute; left: 0px; top: 0px;"><img src="./li1_files/cb_scout5.png" draggable="false" style="position: absolute; left: -147px; top: -26px; width: 215px; height: 835px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div aria-label="Человечек находится над картой" style="width: 26px; height: 26px; overflow: hidden; position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="./li1_files/cb_scout5.png" draggable="false" style="position: absolute; left: -147px; top: -52px; width: 215px; height: 835px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div aria-label="Перейти в режим просмотра улиц" style="width: 26px; height: 26px; overflow: hidden; position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="./li1_files/cb_scout5.png" draggable="false" style="position: absolute; left: -147px; top: -78px; width: 215px; height: 835px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div></div><div class="gmnoprint" controlwidth="28" controlheight="0" style="display: none; position: absolute;"><div title="Повернуть карту на 90 градусов" style="width: 28px; height: 28px; overflow: hidden; position: absolute; border-radius: 2px; box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; cursor: pointer; display: none; background-color: rgb(255, 255, 255);"><img src="./li1_files/tmapctrl4.png" draggable="false" style="position: absolute; left: -141px; top: 6px; width: 170px; height: 54px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div class="gm-tilt" style="width: 28px; height: 28px; overflow: hidden; position: absolute; border-radius: 2px; box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; top: 0px; cursor: pointer; background-color: rgb(255, 255, 255);"><img src="./li1_files/tmapctrl4.png" draggable="false" style="position: absolute; left: -141px; top: -13px; width: 170px; height: 54px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div></div><div class="gmnoprint" style="margin: 10px; z-index: 0; position: absolute; cursor: pointer; left: 0px; top: 0px;"><div class="gm-style-mtc" style="float: left;"><div draggable="false" title="Показать карту с названиями объектов" style="direction: ltr; overflow: hidden; text-align: center; position: relative; color: rgb(0, 0, 0); font-family: Roboto, Arial, sans-serif; -webkit-user-select: none; font-size: 11px; padding: 8px; border-bottom-left-radius: 2px; border-top-left-radius: 2px; -webkit-background-clip: padding-box; box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; min-width: 30px; font-weight: 500; background-color: rgb(255, 255, 255); background-clip: padding-box;">Карта</div><div style="z-index: -1; padding: 2px; border-bottom-left-radius: 2px; border-bottom-right-radius: 2px; box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; position: absolute; left: 0px; top: 32px; text-align: left; display: none; background-color: white;"><div draggable="false" title="Показать карту рельефа с названиями объектов" style="color: rgb(0, 0, 0); font-family: Roboto, Arial, sans-serif; -webkit-user-select: none; font-size: 11px; padding: 6px 8px 6px 6px; direction: ltr; text-align: left; white-space: nowrap; background-color: rgb(255, 255, 255);"><span role="checkbox" style="box-sizing: border-box; position: relative; line-height: 0; font-size: 0px; margin: 0px 5px 0px 0px; display: inline-block; border: 1px solid rgb(198, 198, 198); border-radius: 1px; width: 13px; height: 13px; vertical-align: middle; background-color: rgb(255, 255, 255);"><div style="position: absolute; left: 1px; top: -2px; width: 13px; height: 11px; overflow: hidden; display: none;"><img src="./li1_files/imgs8.png" draggable="false" style="position: absolute; left: -52px; top: -44px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none; width: 68px; height: 67px;"></div></span><label style="vertical-align: middle; cursor: pointer;">Рельеф</label></div></div></div><div class="gm-style-mtc" style="float: left;"><div draggable="false" title="Показать спутниковую карту" style="direction: ltr; overflow: hidden; text-align: center; position: relative; color: rgb(86, 86, 86); font-family: Roboto, Arial, sans-serif; -webkit-user-select: none; font-size: 11px; padding: 8px; border-bottom-right-radius: 2px; border-top-right-radius: 2px; -webkit-background-clip: padding-box; box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; border-left-width: 0px; min-width: 43px; background-color: rgb(255, 255, 255); background-clip: padding-box;">Спутник</div><div style="z-index: -1; padding: 2px; border-bottom-left-radius: 2px; border-bottom-right-radius: 2px; box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px; position: absolute; right: 0px; top: 32px; text-align: left; display: none; background-color: white;"><div draggable="false" title="Показать спутниковую карту с названиями объектов" style="color: rgb(0, 0, 0); font-family: Roboto, Arial, sans-serif; -webkit-user-select: none; font-size: 11px; padding: 6px 8px 6px 6px; direction: ltr; text-align: left; white-space: nowrap; background-color: rgb(255, 255, 255);"><span role="checkbox" style="box-sizing: border-box; position: relative; line-height: 0; font-size: 0px; margin: 0px 5px 0px 0px; display: inline-block; border: 1px solid rgb(198, 198, 198); border-radius: 1px; width: 13px; height: 13px; vertical-align: middle; background-color: rgb(255, 255, 255);"><div style="position: absolute; left: 1px; top: -2px; width: 13px; height: 11px; overflow: hidden;"><img src="./li1_files/imgs8.png" draggable="false" style="position: absolute; left: -52px; top: -44px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none; width: 68px; height: 67px;"></div></span><label style="vertical-align: middle; cursor: pointer;">Названия объектов</label></div></div></div></div></div></div>
+	<!-- / Google map -->
+
+
+	<!-- / Footer section -->	
+	<footer class="footer-section footer-section-1 pos-rel pd-tb-medium bg-dark2 sm-pd-tb-small" id="contact">
+		<div class="container typo-light">
+			
+			<div class="align-c mr-b-70">
+				<h2 class="title large txt-upper sm-fs30">CONTACT US</h2>
+				<p class="title-sub large">We would love to hear from you so don't be shy</p>
+			</div>
+			
+			<!-- <hr class="light mr-tb-70 mr-auto"> -->
+
+			<div class="flex-row mr-b-40 mb20">
+				
+				<div class="flex-col-md-3">
+					<div class="content sm-align-c">
+
+						<h3 class="title bold-1 small mr-b-0">Headquarters</h3>
+						<p class="mr-b-40 op-05">PO Box 16122,<br>Collins Street West,<br>Victoria 8007,<br>Australia</p>
+
+						<h3 class="title bold-1 small mr-b-0">Phone</h3>
+						<p class="mr-b-40 op-05">1-123-456-7890,<br>1-123-456-7890</p>
+						
+						<h3 class="title bold-1 small">Connect us on</h3>
+						<div class="social-links small bdr light">
+							<a href="http://themeforest.net/item/rgen-landing-pages/13244840?ref=R_GENESIS" target="_blank"><i class="fa fa-facebook"></i></a>
+							<a href="http://themeforest.net/item/rgen-landing-pages/13244840?ref=R_GENESIS" target="_blank"><i class="fa fa-twitter"></i></a>
+							<a href="http://themeforest.net/item/rgen-landing-pages/13244840?ref=R_GENESIS" target="_blank"><i class="fa fa-google-plus"></i></a>
+							<a href="http://themeforest.net/item/rgen-landing-pages/13244840?ref=R_GENESIS" target="_blank"><i class="fa fa-youtube-play"></i></a>
+							<a href="http://themeforest.net/item/rgen-landing-pages/13244840?ref=R_GENESIS" target="_blank"><i class="fa fa-instagram"></i></a>	
+						</div><!-- /Social -->
+
+					</div><!-- /.content -->
+				</div><!-- / column -->
+
+				<div class="flex-col-md-8 flex-col-md-offset-1">
+					<!-- Popup contact form - 1 -->
+					<div id="contact-form" class="form-block">
+						<form action="http://agency.rgenesis.com/light/form-data/formdata.php" class="form-widget" data-success-redirect="y" novalidate="novalidate">
+							<div class="field-wrp">
+								<input type="hidden" name="to" value="r.genesis.art@gmail.com">
+								<div class="flex-row gt20 mb10">
+									<div class="flex-col-md-6">
+										<div class="form-group">
+											<input class="form-control light bdr-op-2" data-label="Name" required="" data-msg="Please enter name." type="text" name="name" placeholder="Enter your name" aria-required="true">
+										</div>
+									</div>
+									<div class="flex-col-md-6">
+										<div class="form-group">
+											<input class="form-control light bdr-op-2" data-label="Email" required="" data-msg="Please enter email." type="email" name="email" placeholder="Enter your email" aria-required="true">
+										</div>
+									</div>
+								</div>
+								<div class="flex-row gt20 mb10">
+									<div class="flex-col-md-6">
+										<div class="form-group">
+											<input class="form-control light bdr-op-2" required="" data-label="Phone" data-msg="Please phone number." type="text" name="phone" placeholder="Enter your phone number" aria-required="true">
+										</div>
+									</div>
+									<div class="flex-col-md-6">
+										<div class="form-group">
+											<input class="form-control light bdr-op-2" data-label="Subject" required="" data-msg="Please enter subject." type="text" name="subject" placeholder="Enter subject" aria-required="true">
+										</div>
+									</div>
+								</div>
+								<div class="form-group">
+									<textarea class="form-control light bdr-op-2" data-label="Message" required="" data-msg="Please enter your message." name="message" placeholder="Add your message" cols="30" rows="10" aria-required="true"></textarea>
+								</div>
+							</div>
+							<button type="submit" class="btn btn-default light block"><i class="fa fa-envelope-o"></i> Submit</button>
+						</form><!-- / form -->
+					</div><!-- /#popup-contact-form -->
+				</div><!-- / column -->
+				
+			</div><!-- / row -->
+			
+
+			<hr class="light mr-tb-70 mr-auto">
+			
+			<p class="align-c"><a href="http://themeforest.net/item/rgen-landing-pages/13244840?ref=R_GENESIS" target="_blank">R.Gen - Landing pages</a> © 2016</p>
+			
+			
+		</div>
+	</footer>
+
+
+</div>
+<!-- /#page --> 
+
+<!-- JavaScript --> 
+<script src="./li1_files/rgen_min.js"></script>
+<script async="" src="./li1_files/rgen.js"></script>
+
+
+</body></html>

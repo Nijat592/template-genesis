@@ -1,1 +1,9 @@
-style.css
+
+
+.container-fluid {
+	background-color: red;
+}
+
+.container {
+	background-color: skyblue;
+}
